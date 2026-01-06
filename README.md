@@ -1,21 +1,18 @@
-# ✨ Neo Calculator
+# 🧮 Calculator Code Start
 
-Calculadora moderna com design premium inspirada em interfaces iOS e conceitos de Glassmorphism.
+Interface de calculadora desenvolvida com **HTML, CSS e JavaScript**, com design moderno criado no **Figma**.
 
-## 🎨 UI Design
-Design criado no Figma com foco em:
-- Glassmorphism
+## 🎨 Design (Figma)
+O layout foi projetado com foco em:
 - Dark UI
-- Componentização
-- Experiência mobile-first
+- Botões circulares
+- Destaque visual para operadores
+- Responsividade mobile
 
-![Preview](preview.png)
-
-## 🚀 Stack
+## 🚀 Tecnologias
 - HTML5
 - CSS3
 - JavaScript
-- Figma (UI/UX)
+- Figma
 
-## 📌 Autor
-Gustavo Gabriel
+## 📂 Estrutura
