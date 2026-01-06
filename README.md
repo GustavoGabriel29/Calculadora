@@ -15,4 +15,5 @@ O layout foi projetado com foco em:
 - JavaScript
 - Figma
 
-## 📂 Estrutura
+## 📌 Autor
+Gustavo Gabriel
